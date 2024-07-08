@@ -1,0 +1,68 @@
+
+body {
+    
+    font-family:'Comic Sans MS';
+    background-color: #f4991a;
+    margin: 0;
+    padding: 0;
+    
+}
+  
+   
+ .container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #000000;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #fefbfb;
+    font-size: 55px;
+}
+
+div h2{
+    color: #ffffff;
+}
+
+.menu {
+    margin: 20px 0;
+}
+
+.menu h2 {
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: #e0e0e0;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.order-button {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #25d366;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.order-button:hover {
+    background-color: #1ebe55;
+}
+
+footer{
+    color: #fff;
+}
