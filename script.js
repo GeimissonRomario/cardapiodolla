@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
     refrigerantes.forEach(refrigerante => createListItem(refrigerante, 'refrigerantes'));
 
     const whatsappLink = document.getElementById('whatsapp-link');
-    const whatsappNumber = 5527988039857; // Substitua pelo seu número do WhatsApp
+    const whatsappNumber = 55279xxxxxxxxx; // Substitua pelo seu número do WhatsApp
 
     whatsappLink.addEventListener('click', (event) => {
         event.preventDefault();
